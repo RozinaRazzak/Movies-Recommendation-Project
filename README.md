@@ -1,2 +1,2 @@
 # Movies-Recommendation-Project
-Movies recommendation systemis basically content based machine learning project.
+Movies recommendation system is basically content based machine learning project.
